@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Momazos Creator</string>
+    <string name="title_activity_add_text">AddText</string>
+</resources>
